@@ -1,0 +1,10 @@
+numpad based adventure
+  procedurally generated maps?
+  ?oddx?odd sized array for map?
+enemy difficulty
+  based on how far you are from the starting point
+  higher likelihood for encountering an enemy the further you get from spawn
+how to end the game
+  die
+  beat the boss
+  esacpe
